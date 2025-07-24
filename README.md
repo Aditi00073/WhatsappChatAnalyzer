@@ -14,3 +14,5 @@ Privacy Focused: All data is processed locally in your browser; no chat content 
 Export your WhatsApp chat as a .txt file (with or without media).
 Launch the Streamlit app and upload your chat file.
 Explore the rich dashboard of statistics, charts, and insights generated from your conversation.
+
+CREDITS: Inspired from CampusX project
